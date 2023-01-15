@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "sass": "^1.57.1"
+  },
+  "name": "coffee",
+  "description": "this is a coffee shop landing page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch scss/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonriselan/Coffee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonriselan/Coffee/issues"
+  },
+  "homepage": "https://github.com/moonriselan/Coffee#readme"
+}
