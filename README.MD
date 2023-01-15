@@ -1,2 +1,2 @@
-this is a coffee shop landing page
+this is a coffee shop/icecream shop :)) landing page
 
